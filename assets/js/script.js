@@ -1,1 +1,6 @@
-$('#text').hide();
+
+$(function(){
+
+  $('#text').hide();
+
+});
